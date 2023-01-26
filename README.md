@@ -42,8 +42,9 @@ Project
 |2022.11|SpringBoot project|Java, SpringBoot, MySql|<a href = 'https://github.com/KimHanByeo1/Spring'>Click</a>|
 |2022.12|Flutter project|R, Firebase, Mysql, Flutter|<a href = 'https://github.com/KimHanByeo1/Flutter'>Click</a>|
 
+GitHub State
 ---
-[![KimHanByeo1 GitHub stats](https://github-readme-stats.vercel.app/api?username=KimHanByeo1&show_icons=true&theme=테마a&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![KimHanByeo1](https://github-readme-stats.vercel.app/api?username=KimHanByeo1&show_icons=true&theme=테마a&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
