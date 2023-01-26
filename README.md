@@ -39,7 +39,7 @@ Project
 |Date|Project Name|Develop Tool|Link|
 |------|---|---|---|
 |2022.11|Jsp_Mvc_Pattern project|Java, mvc_pattern, MySql|<a href = 'https://github.com/Left3to4/Allways'>Click</a>|
-|2022.11|Spring_Boot project|Java, SpringBoot, MySql|<a href = 'https://github.com/KimHanByeo1/Spring'>Click</a>|
+|2022.11|Spring_Boot project|Java, SpringBoot, MySql|<a href = 'https://github.com/usonihs/AllwaysSpring'>Click</a>|
 |2022.12|Flutter project|R, Firebase, Mysql, Flutter|<a href = 'https://github.com/altese/projectFlutterBicycle'>Click</a>|
 
 GitHub State
