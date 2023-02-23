@@ -51,7 +51,7 @@ Project
 <tbody>
 <tr>
 <td>2022.11</td>
-<td>JSP Project(MVC Pattern)</td>
+<td>Web Project(JSP MVC_패턴)</td>
 <td>Java, mvc_pattern, MySql</td>
 <td>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png">
@@ -66,7 +66,7 @@ Project
 
 <tr>
 <td>2022.11</td>
-<td>JSP Project(Spring Boot)</td>
+<td>Web Project(Spring Boot)</td>
 <td>Java, SpringBoot, MySql</td>
 <td>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png">
