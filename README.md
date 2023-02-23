@@ -101,7 +101,7 @@ Project
 <td>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png">
 <img src="https://cdn.icon-icons.com/icons2/2749/PNG/96/github_apps_platform_icon_176077.png" width="30" height="15" style="max-width: 100%;"></a>
-<a href="https://github.com/altese/projectFlutterBicycle](https://github.com/SunHyongKwon/BobIsMiss" rel="nofollow">GitHub</a>
+<a href="https://github.com/SunHyongKwon/BobIsMiss" rel="nofollow">GitHub</a>
   
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png">
 <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" style="max-width: 100%;"></a>
