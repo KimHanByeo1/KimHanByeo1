@@ -4,12 +4,6 @@ Education
 |------|---|---|
 |2016~2019|설악고등학교(강원)|e-비지니스|
 
-License
----
-|Date|License Name
-|------|---|
-|???|???|
-
 Stacks
 ---
 <p dir="auto">
